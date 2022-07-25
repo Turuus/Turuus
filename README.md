@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+[![Website](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://gantur.mn)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gantur)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/turuu__s)
+
+
 
 <!--
 **Turuus/Turuus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
